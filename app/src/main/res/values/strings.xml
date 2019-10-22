@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="my_name">Mun Sin</string>
+    <string name="my_profile_pic">Profile Picture</string>
+    <string name="my_profile_desc">
+        \nEducation:haha
+        \n\t haha
+        \n\thaha
+        \n\thaha
+        \n\thaha
+    \n
+        \n
+        \n\tpapa
+        \n
+        \n
+        \n\tTaruc
+        \n
+        \n\thuhu
+        \n
+    </string>
+</resources>
